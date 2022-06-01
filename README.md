@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darkclown007
-- 👀 I’m interested in robotics and game devlopment
+- 👋 Hi, I’m Riddhiman Yadav
+- 👀 I’m interested in robotics, game devlopment and AI
 - 🌱 I’m currently learning pygame, java and rasberry pi 
 - 📫 you can reach me on my email riddhiman123.11@gmail.com
